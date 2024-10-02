@@ -6,6 +6,14 @@ git log
    --oneline
    --all
    --graph
-git branch
-   -a
-   -r
+git branch (로컬만)
+   -r      (원격만)
+   -a      (로컬, 원격 모두)
+
+git branch 브랜치명  ㅡ git 브랜치 생성
+git checkout 브랜치명 ㅡ 브랜치 전환
+  = git switch 브랜치명
+
+로컬 브랜치 삭제
+로컬 브랜치 강제삭제
+원격 브랜치 삭제
