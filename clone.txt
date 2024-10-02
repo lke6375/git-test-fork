@@ -1,1 +1,11 @@
 클론으로 내려받기
+
+git 주요 명령어
+git status
+git log
+   --oneline
+   --all
+   --graph
+git branch
+   -a
+   -r
